@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
+wandb/
+
+# Environment variables and secrets
+.env
+
+# Dataset - adjust if you intend to publish it
+dataset/
